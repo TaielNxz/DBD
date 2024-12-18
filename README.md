@@ -100,5 +100,9 @@ ___
 * [**ejercicio 07**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio07.sql)
 * [**ejercicio 08**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio08.sql)
 * [**ejercicio 09**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio09.sql)
+* [**ejercicio 10**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio10.sql)
+* [**ejercicio 11**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio11.sql)
+* [**ejercicio 12**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio12.sql)
+* [**ejercicio 13**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio13.sql)
 
 ___
