@@ -1,13 +1,3 @@
-## Explicaciones de Práctica
-
-[**DBD-2024 - Explicacion 1 - Modelo Conceptual.pdf**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.explicaciones/DBD-2024%20-%20Explicacion%201%20-%20Modelo%20Conceptual.pdf)
-[**DBD-2024 - Explicacion 2 - Modelo Logico.pdf**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.explicaciones/DBD-2024%20-%20Explicacion%201%20-%20Modelo%20Conceptual.pdf)
-[**DBD-2024 - Explicacion 3 - Modelado fisico.pdf**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.explicaciones/DBD-2024%20-%20Explicacion%201%20-%20Modelo%20Conceptual.pdf)
-[**DBD-2024 - Explicacion 4 - Algebra relacional.pdf**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.explicaciones/DBD-2024%20-%20Explicacion%201%20-%20Modelo%20Conceptual.pdf)
-[**DBD-2024 - Explicacion 5 - SQL.pdf**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.explicaciones/DBD-2024%20-%20Explicacion%201%20-%20Modelo%20Conceptual.pdf)
-[**DBD-2024 - Explicacion 6 - SQL.pdf**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.explicaciones/DBD-2024%20-%20Explicacion%201%20-%20Modelo%20Conceptual.pdf)
-___
-
 ## PRACTICAS
 
 #### IMPORTANTE
@@ -18,6 +8,7 @@ ___
 ___
 
 ### Práctica 1 - Introducción al Modelado Conceptual
+
 [**_Enunciados de la practica 1_**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.pdf/DBD-2024%20-%20Pr%C3%A1ctica%201%20-%20Introducci%C3%B3n%20al%20Modelado%20Conceptual.pdf)
 
 * [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2001/ejercicio_01.png)
@@ -30,7 +21,9 @@ ___
 * [**ejercicio 08**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2001/ejercicio_08.png)
 * [**ejercicio 09**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2001/ejercicio_09.png)
 
-### PRACTICA 2
+### Práctica 2 - Modelado conceptual, logico y fisico
+
+[**_Enunciados de la practica 2_**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.pdf/DBD-2024%20-%20Pr%C3%A1ctica%202%20-%20Modelado%20conceptual%2C%20logico%20y%20fisico.pdf)
 
 * PARTE 1
   * [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_01.png)
@@ -55,7 +48,10 @@ ___
   * [**ejercicio 06**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_06.png)
   * [**ejercicio 07**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_07.png)
 
-### PRACTICA 3
+### Práctica 3 - Algebra relacional
+
+[**_Enunciados de la practica 3_**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.pdf/DBD-2024%20-%20Pr%C3%A1ctica%203%20-%20Algebra%20relacional.pdf)
+
 * [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2001/ejercicio_01.png)
 * [**ejercicio 02**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2001/ejercicio_02.png)
 * [**ejercicio 03**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2001/ejercicio_03.png)
@@ -66,7 +62,10 @@ ___
 * [**ejercicio 08**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2001/ejercicio_08.png)
 * [**ejercicio 09**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2001/ejercicio_09.png)
 
-### PRACTICA 4
+### Práctica 4 - SQL
+
+[**_Enunciados de la practica 4_**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.pdf/DBD-2024%20-%20Pr%C3%A1ctica%204%20-%20SQL.pdf)
+
 * [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio01.sql)
 * [**ejercicio 02**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio02.sql)
 * [**ejercicio 03**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio03.sql)
