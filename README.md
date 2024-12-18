@@ -2,7 +2,7 @@
 ## PRACTICAS
 
 ### PRACTICA 1
-* [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2001/ejercicio_01.png)
+* [ejercicio 01](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2001/ejercicio_01.png)
 * [**ejercicio 02**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2001/ejercicio_02.png)
 * [**ejercicio 03**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2001/ejercicio_03.png)
 * [**ejercicio 04**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2001/ejercicio_04.png)
