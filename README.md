@@ -1,10 +1,20 @@
-## PRACTICAS
+## Algunos Links
 
-#### IMPORTANTE
-- **_Utilicen los ejercicios unicamente para comprar resultados_**. Si bien las resoluciones pueden ser correctas **_nunca se fien_**, el criterio que usa la catedra es algo ambiguo a veces, **_algun ayudante te puede decir que algo esta bien y otro te puede decir lo contrario_**, por lo tanto la mejor manera de saber si estan las cosas bien es consultar, comparar con otros compañeros y practicar mucho. 
-- Tambien tengan en cuenta que **_algunas cosas puntuales tienen varias formas de resolverse_** ya que son desiciones de diseño y estas dependen de lo que el desarrollador crea mas conveniente, por lo que es muy importante aprender a idetificar **que partes del modelo deben modelarse de una forma concreta ( como los historiales ) y que partes son desciones de diseño ( como elegir un atributo vs una entidad )
-- Todas las resoluciones sin exepción fueron comparadas con ejercicios realizados por otros alumnos.
-- La mayoria de las resoluciónes fueron verificadas por ayudantes.
+[**Youtube - Clases de Teoría Grabadas**](https://drive.google.com/drive/u/0/folders/1_HfE-FjhlwMInBQoSAdSqrKD944sVSvj)
+[**Youtube - Ejemplos de la Teoría (suban el volumen)**](https://www.youtube.com/watch?v=YCI-FgcKAu4&list=PLAsNmuq7oIjrLFTa6fvfl-rL6uUB_cXYX)
+[**Drive - Powerpoints con Audios y Ejemplos de Teoria**](https://drive.google.com/drive/u/0/folders/1_HfE-FjhlwMInBQoSAdSqrKD944sVSvj)
+[**Drive - Explicaciones de Práctica**](https://drive.google.com/drive/u/0/folders/1g1bf1qewCKMTaXkAwk8eooq1tGH4CVuN)
+[**Drive Definitivo - Todo el material necesario para aprobar DBD**](https://drive.google.com/drive/folders/1trqxBtQkptaSapz-A_7PgYd8B8gliZaq?usp=drive_link)
+
+___
+
+## Prácticas
+
+### IMPORTANTE
+> - **_Utilicen los ejercicios unicamente para comprar resultados_**. Si bien las resoluciones pueden ser correctas **_nunca se fien_**, el criterio que usa la catedra es algo ambiguo a veces, **_algun ayudante te puede decir que algo esta bien y otro te puede decir lo contrario_**, por lo tanto la mejor manera de saber si estan las cosas bien es consultar, comparar con otros compañeros y practicar mucho. 
+> - Tambien tengan en cuenta que **_algunas cosas puntuales tienen varias formas de resolverse_** ya que son desiciones de diseño y estas dependen de lo que el desarrollador crea mas conveniente, por lo que es muy importante aprender a idetificar **que partes del modelo deben modelarse de una forma concreta ( como los historiales ) y que partes son desciones de diseño ( como elegir un atributo vs una entidad )
+> - Todas las resoluciones sin exepción fueron comparadas con ejercicios realizados por otros alumnos.
+> - La mayoria de las resoluciónes fueron verificadas por ayudantes.
 ___
 
 ### Práctica 1 - Introducción al Modelado Conceptual
