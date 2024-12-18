@@ -1,20 +1,29 @@
-## Algunos Links
+___
+
+# Diseño de Bases de Datos
+
+___
+
+### Algunos Links
 
 [**Youtube - Clases de Teoría Grabadas**](https://drive.google.com/drive/u/0/folders/1_HfE-FjhlwMInBQoSAdSqrKD944sVSvj)
+
 [**Youtube - Ejemplos de la Teoría (suban el volumen)**](https://www.youtube.com/watch?v=YCI-FgcKAu4&list=PLAsNmuq7oIjrLFTa6fvfl-rL6uUB_cXYX)
+
 [**Drive - Powerpoints con Audios y Ejemplos de Teoria**](https://drive.google.com/drive/u/0/folders/1_HfE-FjhlwMInBQoSAdSqrKD944sVSvj)
+
 [**Drive - Explicaciones de Práctica**](https://drive.google.com/drive/u/0/folders/1g1bf1qewCKMTaXkAwk8eooq1tGH4CVuN)
+
 [**Drive Definitivo - Todo el material necesario para aprobar DBD**](https://drive.google.com/drive/folders/1trqxBtQkptaSapz-A_7PgYd8B8gliZaq?usp=drive_link)
 
 ___
 
-## Prácticas
-
 ### IMPORTANTE
-> - **_Utilicen los ejercicios unicamente para comprar resultados_**. Si bien las resoluciones pueden ser correctas **_nunca se fien_**, el criterio que usa la catedra es algo ambiguo a veces, **_algun ayudante te puede decir que algo esta bien y otro te puede decir lo contrario_**, por lo tanto la mejor manera de saber si estan las cosas bien es consultar, comparar con otros compañeros y practicar mucho. 
-> - Tambien tengan en cuenta que **_algunas cosas puntuales tienen varias formas de resolverse_** ya que son desiciones de diseño y estas dependen de lo que el desarrollador crea mas conveniente, por lo que es muy importante aprender a idetificar **que partes del modelo deben modelarse de una forma concreta ( como los historiales ) y que partes son desciones de diseño ( como elegir un atributo vs una entidad )
-> - Todas las resoluciones sin exepción fueron comparadas con ejercicios realizados por otros alumnos.
-> - La mayoria de las resoluciónes fueron verificadas por ayudantes.
+- **_Utilicen los ejercicios unicamente para comprar resultados_**. Si bien las resoluciones pueden ser correctas **_nunca se fien_**, el criterio que usa la catedra es algo ambiguo a veces, **_algun ayudante te puede decir que algo esta bien y otro te puede decir lo contrario_**, por lo tanto la mejor manera de saber si estan las cosas bien es consultar, comparar con otros compañeros y practicar mucho. 
+- Tambien tengan en cuenta que **_algunas cosas puntuales tienen varias formas de resolverse_** ya que son desiciones de diseño y estas dependen de lo que el desarrollador crea mas conveniente, por lo que es muy importante aprender a idetificar **que partes del modelo deben modelarse de una forma concreta ( como los historiales ) y que partes son desciones de diseño ( como elegir un atributo vs una entidad )
+- Todas las resoluciones sin exepción fueron comparadas con ejercicios realizados por otros alumnos.
+- La mayoria de las resoluciónes fueron verificadas por ayudantes.
+  
 ___
 
 ### Práctica 1 - Introducción al Modelado Conceptual
@@ -31,32 +40,36 @@ ___
 * [**ejercicio 08**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2001/ejercicio_08.png)
 * [**ejercicio 09**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2001/ejercicio_09.png)
 
+___
+
 ### Práctica 2 - Modelado conceptual, logico y fisico
 
 [**_Enunciados de la practica 2_**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.pdf/DBD-2024%20-%20Pr%C3%A1ctica%202%20-%20Modelado%20conceptual%2C%20logico%20y%20fisico.pdf)
 
-* PARTE 1
-  * [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_01.png)
-  * [**ejercicio 02**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_02.png)
-  * [**ejercicio 03**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_03.png)
-  * [**ejercicio 04**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_04.png)
-  * [**ejercicio 05**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_05.png)
-  * [**ejercicio 06**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_06.png)
-  * [**ejercicio 07**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_07.png)
-  * [**ejercicio 08**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_08.png)
-  * [**ejercicio 09**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_09.png)
-  * [**ejercicio 10**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_10.png)
-  * [**ejercicio 11**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_11.png)
-  * [**ejercicio 12**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_12.png)
+PARTE 1
+* [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_01.png)
+* [**ejercicio 02**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_02.png)
+* [**ejercicio 03**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_03.png)
+* [**ejercicio 04**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_04.png)
+* [**ejercicio 05**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_05.png)
+* [**ejercicio 06**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_06.png)
+* [**ejercicio 07**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_07.png)
+* [**ejercicio 08**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_08.png)
+* [**ejercicio 09**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_09.png)
+* [**ejercicio 10**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_10.png)
+* [**ejercicio 11**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_11.png)
+* [**ejercicio 12**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_12.png)
 
-* PARTE 2
-  * [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_01.png)
-  * [**ejercicio 02**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_02.png)
-  * [**ejercicio 03**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_03.png)
-  * [**ejercicio 04**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_04.png)
-  * [**ejercicio 05**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_05.png)
-  * [**ejercicio 06**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_06.png)
-  * [**ejercicio 07**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_07.png)
+PARTE 2
+* [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_01.png)
+* [**ejercicio 02**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_02.png)
+* [**ejercicio 03**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_03.png)
+* [**ejercicio 04**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_04.png)
+* [**ejercicio 05**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_05.png)
+* [**ejercicio 06**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_06.png)
+* [**ejercicio 07**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_07.png)
+
+___
 
 ### Práctica 3 - Algebra relacional
 
@@ -71,6 +84,8 @@ ___
 * [**ejercicio 07**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2001/ejercicio_07.png)
 * [**ejercicio 08**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2001/ejercicio_08.png)
 * [**ejercicio 09**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2001/ejercicio_09.png)
+
+___
 
 ### Práctica 4 - SQL
 
