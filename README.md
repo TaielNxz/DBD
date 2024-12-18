@@ -6,7 +6,7 @@ ___
 
 ### Algunos Links
 
-[**Youtube - Clases de Teoría Grabadas**](https://drive.google.com/drive/u/0/folders/1_HfE-FjhlwMInBQoSAdSqrKD944sVSvj)
+[**Youtube - Clases de Teoría Grabadas**](https://youtube.com/playlist?list=PLgjP77yaDcE-t44Lfz5bGlSzHf63Od5uF&si=GM05u3dkkfIYh585)
 
 [**Youtube - Ejemplos de la Teoría (suban el volumen)**](https://www.youtube.com/watch?v=YCI-FgcKAu4&list=PLAsNmuq7oIjrLFTa6fvfl-rL6uUB_cXYX)
 
