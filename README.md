@@ -20,7 +20,7 @@ ___
 
 ### IMPORTANTE
 - **_Utilicen los ejercicios unicamente para comprar resultados_**. Si bien las resoluciones pueden ser correctas **_nunca se fien_**, el criterio que usa la catedra es algo ambiguo a veces, **_algun ayudante te puede decir que algo esta bien y otro te puede decir lo contrario_**, por lo tanto la mejor manera de saber si estan las cosas bien es consultar, comparar con otros compañeros y practicar mucho. 
-- Tambien tengan en cuenta que **_algunas cosas puntuales tienen varias formas de resolverse_** ya que son desiciones de diseño y estas dependen de lo que el desarrollador crea mas conveniente, por lo que es muy importante aprender a idetificar **que partes del modelo deben modelarse de una forma concreta ( como los historiales ) y que partes son desciones de diseño ( como elegir un atributo vs una entidad )
+- Tambien tengan en cuenta que **_algunas cosas puntuales tienen varias formas de resolverse_** ya que son desiciones de diseño y estas dependen de lo que el desarrollador crea mas conveniente, por lo que es muy importante aprender a idetificar que partes del modelo deben modelarse de una forma concreta ( como los historiales ) y que partes pueden variar dependiendo del criterio de cada uno ( como elegir un atributo vs una entidad ).
 - Todas las resoluciones sin exepción fueron comparadas con ejercicios realizados por otros alumnos.
 - La mayoria de las resoluciónes fueron verificadas por ayudantes.
   
