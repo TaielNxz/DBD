@@ -2,6 +2,18 @@ ___
 
 # Diseño de Bases de Datos
 
+
+___
+### Otros Repositorios
+si les son de utilidad dejen sus estrellitas
+
+- https://github.com/ssofiaavila/DBD--Informatica-UNLP
+- https://github.com/agusrnfr/DBD
+- https://github.com/Fabian-Martinez-Rincon/DBD
+- https://github.com/Giancardonee/DBD
+- https://github.com/felipemassera/DisenoBasesDatos
+- https://github.com/alexisarte/DBD
+
 ___
 
 ### Algunos Links
