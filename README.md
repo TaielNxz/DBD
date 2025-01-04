@@ -40,81 +40,81 @@ ___
 
 ### Práctica 1 - Introducción al Modelado Conceptual
 
-[**_Enunciados de la practica 1_**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.pdf/DBD-2024%20-%20Pr%C3%A1ctica%201%20-%20Introducci%C3%B3n%20al%20Modelado%20Conceptual.pdf)
+[**_Enunciados de la practica 1_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%201%20-%20Introducción%20al%20Modelado%20Conceptual.pdf)
 
-* [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2001/ejercicio_01.png)
-* [**ejercicio 02**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2002/ejercicio_02.png)
-* [**ejercicio 03**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2003/ejercicio_03.png)
-* [**ejercicio 04**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2004/ejercicio_04.png)
-* [**ejercicio 05**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2005/ejercicio_05.png)
-* [**ejercicio 06**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2006/ejercicio_06.png)
-* [**ejercicio 07**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2007/ejercicio_07.png)
-* [**ejercicio 08**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2008/ejercicio_08.png)
-* [**ejercicio 09**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%201/ejercicio%2009/ejercicio_09.png)
+* [**ejercicio 01**](Practicas/Practica%201/ejercicio%2001/ejercicio_01.png)
+* [**ejercicio 02**](Practicas/Practica%201/ejercicio%2002/ejercicio_02.png)
+* [**ejercicio 03**](Practicas/Practica%201/ejercicio%2003/ejercicio_03.png)
+* [**ejercicio 04**](Practicas/Practica%201/ejercicio%2004/ejercicio_04.png)
+* [**ejercicio 05**](Practicas/Practica%201/ejercicio%2005/ejercicio_05.png)
+* [**ejercicio 06**](Practicas/Practica%201/ejercicio%2006/ejercicio_06.png)
+* [**ejercicio 07**](Practicas/Practica%201/ejercicio%2007/ejercicio_07.png)
+* [**ejercicio 08**](Practicas/Practica%201/ejercicio%2008/ejercicio_08.png)
+* [**ejercicio 09**](Practicas/Practica%201/ejercicio%2009/ejercicio_09.png)
 
 ___
 
 ### Práctica 2 - Modelado conceptual, logico y fisico
 
-[**_Enunciados de la practica 2_**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.pdf/DBD-2024%20-%20Pr%C3%A1ctica%202%20-%20Modelado%20conceptual%2C%20logico%20y%20fisico.pdf)
+[**_Enunciados de la practica 2_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%202%20-%20Modelado%20conceptual%2C%20logico%20y%20fisico.pdf)
 
 PARTE 1
-* [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_01.png)
-* [**ejercicio 02**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2002/ejercicio_02.png)
-* [**ejercicio 03**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2003/ejercicio_03.png)
-* [**ejercicio 04**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2004/ejercicio_04.png)
-* [**ejercicio 05**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2005/ejercicio_05.png)
-* [**ejercicio 06**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2006/ejercicio_06.png)
-* [**ejercicio 07**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2007/ejercicio_07.png)
-* [**ejercicio 08**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2008/ejercicio_08.png)
-* [**ejercicio 09**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2009/ejercicio_09.png)
-* [**ejercicio 10**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2010/ejercicio_10.png)
-* [**ejercicio 11**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2011/ejercicio_11.png)
-* [**ejercicio 12**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%201/ejercicio%2012/ejercicio_12.png)
+* [**ejercicio 01**](Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_01.png)
+* [**ejercicio 02**](Practicas/Practica%202/parte%201/ejercicio%2002/ejercicio_02.png)
+* [**ejercicio 03**](Practicas/Practica%202/parte%201/ejercicio%2003/ejercicio_03.png)
+* [**ejercicio 04**](Practicas/Practica%202/parte%201/ejercicio%2004/ejercicio_04.png)
+* [**ejercicio 05**](Practicas/Practica%202/parte%201/ejercicio%2005/ejercicio_05.png)
+* [**ejercicio 06**](Practicas/Practica%202/parte%201/ejercicio%2006/ejercicio_06.png)
+* [**ejercicio 07**](Practicas/Practica%202/parte%201/ejercicio%2007/ejercicio_07.png)
+* [**ejercicio 08**](Practicas/Practica%202/parte%201/ejercicio%2008/ejercicio_08.png)
+* [**ejercicio 09**](Practicas/Practica%202/parte%201/ejercicio%2009/ejercicio_09.png)
+* [**ejercicio 10**](Practicas/Practica%202/parte%201/ejercicio%2010/ejercicio_10.png)
+* [**ejercicio 11**](Practicas/Practica%202/parte%201/ejercicio%2011/ejercicio_11.png)
+* [**ejercicio 12**](Practicas/Practica%202/parte%201/ejercicio%2012/ejercicio_12.png)
 
 PARTE 2
-* [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_01.png)
-* [**ejercicio 02**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2002/ejercicio_02.png)
-* [**ejercicio 03**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2003/ejercicio_03.png)
-* [**ejercicio 04**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2004/ejercicio_04.png)
-* [**ejercicio 05**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2005/ejercicio_05.png)
-* [**ejercicio 06**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2006/ejercicio_06.png)
-* [**ejercicio 07**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%202/parte%202/ejercicio%2007/ejercicio_07.png)
+* [**ejercicio 01**](Practicas/Practica%202/parte%202/ejercicio%2001/ejercicio_01.png)
+* [**ejercicio 02**](Practicas/Practica%202/parte%202/ejercicio%2002/ejercicio_02.png)
+* [**ejercicio 03**](Practicas/Practica%202/parte%202/ejercicio%2003/ejercicio_03.png)
+* [**ejercicio 04**](Practicas/Practica%202/parte%202/ejercicio%2004/ejercicio_04.png)
+* [**ejercicio 05**](Practicas/Practica%202/parte%202/ejercicio%2005/ejercicio_05.png)
+* [**ejercicio 06**](Practicas/Practica%202/parte%202/ejercicio%2006/ejercicio_06.png)
+* [**ejercicio 07**](Practicas/Practica%202/parte%202/ejercicio%2007/ejercicio_07.png)
 
 ___
 
 ### Práctica 3 - Algebra relacional
 
-[**_Enunciados de la practica 3_**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.pdf/DBD-2024%20-%20Pr%C3%A1ctica%203%20-%20Algebra%20relacional.pdf)
+[**_Enunciados de la practica 3_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%203%20-%20Algebra%20relacional.pdf)
 
-* [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2001/ejercicio_01.png)
-* [**ejercicio 02**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2002/ejercicio_02.png)
-* [**ejercicio 03**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2003/ejercicio_03.png)
-* [**ejercicio 04**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2004/ejercicio_04.png)
-* [**ejercicio 05**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2005/ejercicio_05.png)
-* [**ejercicio 06**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2006/ejercicio_06.png)
-* [**ejercicio 07**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2007/ejercicio_07.png)
-* [**ejercicio 08**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2008/ejercicio_08.png)
-* [**ejercicio 09**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%203/ejercicio%2009/ejercicio_09.png)
+* [**ejercicio 01**](Practicas/Practica%203/ejercicio%2001/ejercicio_01.png)
+* [**ejercicio 02**](Practicas/Practica%203/ejercicio%2002/ejercicio_02.png)
+* [**ejercicio 03**](Practicas/Practica%203/ejercicio%2003/ejercicio_03.png)
+* [**ejercicio 04**](Practicas/Practica%203/ejercicio%2004/ejercicio_04.png)
+* [**ejercicio 05**](Practicas/Practica%203/ejercicio%2005/ejercicio_05.png)
+* [**ejercicio 06**](Practicas/Practica%203/ejercicio%2006/ejercicio_06.png)
+* [**ejercicio 07**](Practicas/Practica%203/ejercicio%2007/ejercicio_07.png)
+* [**ejercicio 08**](Practicas/Practica%203/ejercicio%2008/ejercicio_08.png)
+* [**ejercicio 09**](Practicas/Practica%203/ejercicio%2009/ejercicio_09.png)
 
 ___
 
 ### Práctica 4 - SQL
 
-[**_Enunciados de la practica 4_**](https://github.com/TaielNxz/DBD/blob/main/Practicas/.pdf/DBD-2024%20-%20Pr%C3%A1ctica%204%20-%20SQL.pdf)
+[**_Enunciados de la practica 4_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%204%20-%20SQL.pdf)
 
-* [**ejercicio 01**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio01.sql)
-* [**ejercicio 02**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio02.sql)
-* [**ejercicio 03**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio03.sql)
-* [**ejercicio 04**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio04.sql)
-* [**ejercicio 05**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio05.sql)
-* [**ejercicio 06**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio06.sql)
-* [**ejercicio 07**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio07.sql)
-* [**ejercicio 08**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio08.sql)
-* [**ejercicio 09**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio09.sql)
-* [**ejercicio 10**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio10.sql)
-* [**ejercicio 11**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio11.sql)
-* [**ejercicio 12**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio12.sql)
-* [**ejercicio 13**](https://github.com/TaielNxz/DBD/blob/main/Practicas/Practica%204/ejercicio13.sql)
+* [**ejercicio 01**](Practicas/Practica%204/ejercicio01.sql)
+* [**ejercicio 02**](Practicas/Practica%204/ejercicio02.sql)
+* [**ejercicio 03**](Practicas/Practica%204/ejercicio03.sql)
+* [**ejercicio 04**](Practicas/Practica%204/ejercicio04.sql)
+* [**ejercicio 05**](Practicas/Practica%204/ejercicio05.sql)
+* [**ejercicio 06**](Practicas/Practica%204/ejercicio06.sql)
+* [**ejercicio 07**](Practicas/Practica%204/ejercicio07.sql)
+* [**ejercicio 08**](Practicas/Practica%204/ejercicio08.sql)
+* [**ejercicio 09**](Practicas/Practica%204/ejercicio09.sql)
+* [**ejercicio 10**](Practicas/Practica%204/ejercicio10.sql)
+* [**ejercicio 11**](Practicas/Practica%204/ejercicio11.sql)
+* [**ejercicio 12**](Practicas/Practica%204/ejercicio12.sql)
+* [**ejercicio 13**](Practicas/Practica%204/ejercicio13.sql)
 
 ___
