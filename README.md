@@ -5,14 +5,17 @@ ___
 ___
 
 ### IMPORTANTE
-- **_EN LO POSIBLE LEAN TODO EL README, HAY ANOTACIONES IMPORTANTES_**
-- **_Utilicen los ejercicios unicamente para comprar resultados_**. Si bien las resoluciones pueden ser correctas **_nunca se fien_**, el criterio que usa la catedra es algo ambiguo a veces, **_algun ayudante te puede decir que algo esta bien y otro te puede decir lo contrario_**, por lo tanto la mejor manera de saber si estan las cosas bien es consultar, comparar con otros compañeros y practicar mucho. 
-- Tambien tengan en cuenta que **_algunas cosas puntuales tienen varias formas de resolverse_** ya que son desiciones de diseño y estas dependen de lo que el desarrollador crea mas conveniente, por lo que es muy importante aprender a idetificar que partes del modelo deben modelarse de una forma concreta ( como los historiales ) y que partes pueden variar dependiendo del criterio de cada uno ( como elegir un atributo vs una entidad ).
+- **_EN LO POSIBLE LEAN TODO EL README, HAY ANOTACIONES IMPORTANTES_**  
+- **_Utilicen los ejercicios únicamente para comparar resultados_**. Si bien las resoluciones pueden ser correctas, **_nunca se fíen_**. El criterio que usa la cátedra es algo ambiguo a veces: **_algún ayudante te puede decir que algo está bien y otro te puede decir lo contrario_**. Por lo tanto, la mejor manera de saber si las cosas están bien es consultar, comparar con otros compañeros y practicar mucho.  
+- También tengan en cuenta que **_algunas cosas puntuales tienen varias formas de resolverse_**, ya que son decisiones de diseño y estas dependen de lo que el desarrollador crea más conveniente. Por eso, es muy importante aprender a identificar qué partes del modelo deben modelarse de una forma concreta (como los historiales) y qué partes pueden variar dependiendo del criterio de cada uno (como elegir un atributo vs. una entidad).  
 
 ___
 
-### SOBRE LAS ANOTACIONES
+### CRITERIOS DE CORRECCIÓN  
+- En los ejercicios y parciales van a encontrar las siguientes etiquetas, estas **_indican el nivel de confianza que pueden tener sobre el ejercicio_**.  
+- Esto es tan solo una referencia, independientemente de la etiqueta que vean, **_NUNCA SE FÍEN_**. Recuerden preguntar todo lo que puedan y comparar resultados con sus compañeros.  
 
+![CRITERIOS](CRITERIOS.png)
 
 ___
 
@@ -28,23 +31,19 @@ si les son de utilidad dejen sus estrellitas
 
 ___
 
-### Algunos Links
+### Recursos Útiles  
 
-[**Youtube - Clases de Teoría Grabadas**](https://youtube.com/playlist?list=PLgjP77yaDcE-t44Lfz5bGlSzHf63Od5uF&si=GM05u3dkkfIYh585)
-
-[**Youtube - Ejemplos de la Teoría (suban el volumen)**](https://www.youtube.com/watch?v=YCI-FgcKAu4&list=PLAsNmuq7oIjrLFTa6fvfl-rL6uUB_cXYX)
-
-[**Drive - Powerpoints con Audios y Ejemplos de Teoria**](https://drive.google.com/drive/u/0/folders/1_HfE-FjhlwMInBQoSAdSqrKD944sVSvj)
-
-[**Drive - Explicaciones de Práctica**](https://drive.google.com/drive/u/0/folders/1g1bf1qewCKMTaXkAwk8eooq1tGH4CVuN)
-
-[**Drive Definitivo - Todo el material necesario para aprobar DBD**](https://drive.google.com/drive/folders/1trqxBtQkptaSapz-A_7PgYd8B8gliZaq?usp=drive_link)
+- [**Youtube - Clases de Teoría Grabadas**](https://youtube.com/playlist?list=PLgjP77yaDcE-t44Lfz5bGlSzHf63Od5uF&si=GM05u3dkkfIYh585)  
+- [**Youtube - Ejemplos de la Teoría (suban el volumen)**](https://www.youtube.com/watch?v=YCI-FgcKAu4&list=PLAsNmuq7oIjrLFTa6fvfl-rL6uUB_cXYX)  
+- [**Drive - Powerpoints con Audios y Ejemplos de Teoría**](https://drive.google.com/drive/u/0/folders/1_HfE-FjhlwMInBQoSAdSqrKD944sVSvj)  
+- [**Drive - Explicaciones de Práctica**](https://drive.google.com/drive/u/0/folders/1g1bf1qewCKMTaXkAwk8eooq1tGH4CVuN)  
+- [**Drive Definitivo - Todo el material necesario para aprobar DBD**](https://drive.google.com/drive/folders/1trqxBtQkptaSapz-A_7PgYd8B8gliZaq?usp=drive_link)  
 
 ___
 
 ### Práctica 1 - Introducción al Modelado Conceptual
 
-[**_Enunciados de la practica 1_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%201%20-%20Introducción%20al%20Modelado%20Conceptual.pdf)
+[**_Enunciados de la práctica 1_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%201%20-%20Introducción%20al%20Modelado%20Conceptual.pdf)
 
 * [**ejercicio 01**](Practicas/Practica%201/ejercicio%2001/ejercicio_01.png)
 * [**ejercicio 02**](Practicas/Practica%201/ejercicio%2002/ejercicio_02.png)
@@ -58,9 +57,9 @@ ___
 
 ___
 
-### Práctica 2 - Modelado conceptual, logico y fisico
+### Práctica 2 - Modelado conceptual, lógico y fisico
 
-[**_Enunciados de la practica 2_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%202%20-%20Modelado%20conceptual%2C%20logico%20y%20fisico.pdf)
+[**_Enunciados de la práctica 2_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%202%20-%20Modelado%20conceptual%2C%20logico%20y%20fisico.pdf)
 
 #### Parte 1
 * [**ejercicio 01**](Practicas/Practica%202/parte%201/ejercicio%2001/ejercicio_01.png)
@@ -88,7 +87,7 @@ ___
 
 ### Práctica 3 - Algebra relacional
 
-[**_Enunciados de la practica 3_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%203%20-%20Algebra%20relacional.pdf)
+[**_Enunciados de la práctica 3_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%203%20-%20Algebra%20relacional.pdf)
 
 * [**ejercicio 01**](Practicas/Practica%203/ejercicio%2001/ejercicio_01.png)
 * [**ejercicio 02**](Practicas/Practica%203/ejercicio%2002/ejercicio_02.png)
@@ -104,7 +103,7 @@ ___
 
 ### Práctica 4 - SQL
 
-[**_Enunciados de la practica 4_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%204%20-%20SQL.pdf)
+[**_Enunciados de la práctica 4_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%204%20-%20SQL.pdf)
 
 * [**ejercicio 01**](Practicas/Practica%204/ejercicio01.sql)
 * [**ejercicio 02**](Practicas/Practica%204/ejercicio02.sql)
