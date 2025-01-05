@@ -117,20 +117,20 @@ ___
 - Todos y cada uno de los 113 puntos únicamente usan instrucciones SQL que nos explicaron en la Teoría y la Práctica; no hay nada de más.  
 - Todos y cada uno de los 113 puntos fueron verificados con ChatGPT (me hizo correcciones menores y me sugirió soluciones similares).  
 
-[**_Enunciados de la práctica 4_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%204%20-%20SQL.pdf)
-
-* [**ejercicio 01**](Practicas/Practica%204/ejercicio_01.sql)
-* [**ejercicio 02**](Practicas/Practica%204/ejercicio_02.sql)
-* [**ejercicio 03**](Practicas/Practica%204/ejercicio_03.sql)
-* [**ejercicio 04**](Practicas/Practica%204/ejercicio_04.sql)
-* [**ejercicio 05**](Practicas/Practica%204/ejercicio_05.sql)
-* [**ejercicio 06**](Practicas/Practica%204/ejercicio_06.sql)
-* [**ejercicio 07**](Practicas/Practica%204/ejercicio_07.sql)
-* [**ejercicio 08**](Practicas/Practica%204/ejercicio_08.sql)
-* [**ejercicio 09**](Practicas/Practica%204/ejercicio_09.sql)
-* [**ejercicio 10**](Practicas/Practica%204/ejercicio_10.sql)
-* [**ejercicio 11**](Practicas/Practica%204/ejercicio_11.sql)
-* [**ejercicio 12**](Practicas/Practica%204/ejercicio_12.sql)
-* [**ejercicio 13**](Practicas/Practica%204/ejercicio_13.sql)
+  * [**_Enunciados de la práctica 4_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%204%20-%20SQL.pdf)
+  
+  * [**ejercicio 01**](Practicas/Practica%204/ejercicio_01.sql)
+  * [**ejercicio 02**](Practicas/Practica%204/ejercicio_02.sql)
+  * [**ejercicio 03**](Practicas/Practica%204/ejercicio_03.sql)
+  * [**ejercicio 04**](Practicas/Practica%204/ejercicio_04.sql)
+  * [**ejercicio 05**](Practicas/Practica%204/ejercicio_05.sql)
+  * [**ejercicio 06**](Practicas/Practica%204/ejercicio_06.sql)
+  * [**ejercicio 07**](Practicas/Practica%204/ejercicio_07.sql)
+  * [**ejercicio 08**](Practicas/Practica%204/ejercicio_08.sql)
+  * [**ejercicio 09**](Practicas/Practica%204/ejercicio_09.sql)
+  * [**ejercicio 10**](Practicas/Practica%204/ejercicio_10.sql)
+  * [**ejercicio 11**](Practicas/Practica%204/ejercicio_11.sql)
+  * [**ejercicio 12**](Practicas/Practica%204/ejercicio_12.sql)
+  * [**ejercicio 13**](Practicas/Practica%204/ejercicio_13.sql)
 
 ___
