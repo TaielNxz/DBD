@@ -8,6 +8,8 @@ ___
 - **_EN LO POSIBLE LEAN TODO EL README, HAY ANOTACIONES IMPORTANTES_**  
 - **_Utilicen los ejercicios únicamente para comparar resultados_**. Si bien las resoluciones pueden ser correctas, **_nunca se fíen_**. El criterio que usa la cátedra es algo ambiguo a veces: **_algún ayudante te puede decir que algo está bien y otro te puede decir lo contrario_**. Por lo tanto, la mejor manera de saber si las cosas están bien es consultar, comparar con otros compañeros y practicar mucho.  
 - También tengan en cuenta que **_algunas cosas puntuales tienen varias formas de resolverse_**, ya que son decisiones de diseño y estas dependen de lo que el desarrollador crea más conveniente. Por eso, es muy importante aprender a identificar qué partes del modelo deben modelarse de una forma concreta (como los historiales) y qué partes pueden variar dependiendo del criterio de cada uno (como elegir un atributo vs. una entidad).  
+- Mucho del material de este repositorio es **_recopilado de todos los repositorios y de todos los drives que encontré_**, por lo que, si encuentran algún material por ahí (previo a 2024), este **_seguramente ya se encuentre aquí_**.
+- Estuve horas buscando y organizando todo el material asi que espero les sea de utilidad.
 
 ___
 
@@ -133,5 +135,59 @@ ___
 * [**ejercicio 11**](Practicas/Practica%204/ejercicio_11.sql)
 * [**ejercicio 12**](Practicas/Practica%204/ejercicio_12.sql)
 * [**ejercicio 13**](Practicas/Practica%204/ejercicio_13.sql)
+
+___
+
+### PARCIALES
+- Revisé y comparé todos los Repositorios y Drives que encontré, asi que probablemente en este repositorio se encuentrén todos los enunciados de 2024 para atrás
+- Todos los parciales que encontré los recopilé en 4 pdfs separados por año ( 2018, 2020, 2022 y 2024 )
+- Luego, pase los enunciados a texto y los puse en 3 pdfs separados por temas ( Conceptual, Lógico+Físico, AR+SQL )
+
+* [**_Enunciados de Modelado Conceptual_**](Parciales/DBD%20-%20Conceptual%20-%20enunciados%20de%20parciales%20(2018-2024).pdf)
+ 
+  * [**Parcial 01**](Parciales/.mis%20resoluciones/DBD%20-%20Conceptual%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Conceptual%20-%20parcial%2001/DBD-conceptual-parcial-01.png)
+  * [**Parcial 02**](Parciales/.mis%20resoluciones/DBD%20-%20Conceptual%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Conceptual%20-%20parcial%2002/DBD-conceptual-parcial-02.png)
+  * [**Parcial 03**](Parciales/.mis%20resoluciones/DBD%20-%20Conceptual%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Conceptual%20-%20parcial%2003/DBD-conceptual-parcial-03.png)
+  * [**Parcial 04**](Parciales/.mis%20resoluciones/DBD%20-%20Conceptual%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Conceptual%20-%20parcial%2004/DBD-conceptual-parcial-04.png)
+  * [**Parcial 05**](Parciales/.mis%20resoluciones/DBD%20-%20Conceptual%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Conceptual%20-%20parcial%2005/DBD-conceptual-parcial-05.png)
+  * [**Parcial 06**](Parciales/.mis%20resoluciones/DBD%20-%20Conceptual%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Conceptual%20-%20parcial%2006/DBD-conceptual-parcial-06.png)
+  * [**Parcial 07**](Parciales/.mis%20resoluciones/DBD%20-%20Conceptual%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Conceptual%20-%20parcial%2007/DBD-conceptual-parcial-07.png)
+  * [**Parcial 08**](Parciales/.mis%20resoluciones/DBD%20-%20Conceptual%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Conceptual%20-%20parcial%2008/DBD-conceptual-parcial-08.png)
+  * [**Parcial 09**](Parciales/.mis%20resoluciones/DBD%20-%20Conceptual%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Conceptual%20-%20parcial%2009/DBD-conceptual-parcial-09.png)
+  * [**Parcial 10**](Parciales/.mis%20resoluciones/DBD%20-%20Conceptual%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Conceptual%20-%20parcial%2010/DBD-conceptual-parcial-10.png)
+  * [**Parcial 11**](Parciales/.mis%20resoluciones/DBD%20-%20Conceptual%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Conceptual%20-%20parcial%2011/DBD-conceptual-parcial-11.png)
+
+* [**_Enunciados de Modelado Lógico y Físico_**](Parciales/DBD%20-%20Lógico%20y%20Físico%20-%20enunciados%20de%20parciales%20(2018-2024).pdf)
+ 
+  * [**Parcial 01**](Parciales/.mis%20resoluciones/DBD%20-%20Lógico%20y%20Físico%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Lógico%20y%20Físico%20-%20parcial%2001/DBD-logico-fisico-parcial-01.png)
+  * [**Parcial 02**](Parciales/.mis%20resoluciones/DBD%20-%20Lógico%20y%20Físico%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Lógico%20y%20Físico%20-%20parcial%2002/DBD-logico-fisico-parcial-02.png)
+  * [**Parcial 03**](Parciales/.mis%20resoluciones/DBD%20-%20Lógico%20y%20Físico%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Lógico%20y%20Físico%20-%20parcial%2003/DBD-logico-fisico-parcial-03.png)
+  * [**Parcial 04**](Parciales/.mis%20resoluciones/DBD%20-%20Lógico%20y%20Físico%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Lógico%20y%20Físico%20-%20parcial%2004/DBD-logico-fisico-parcial-04.png)
+  * [**Parcial 05**](Parciales/.mis%20resoluciones/DBD%20-%20Lógico%20y%20Físico%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Lógico%20y%20Físico%20-%20parcial%2005/DBD-logico-fisico-parcial-05.png)
+  * [**Parcial 06**](Parciales/.mis%20resoluciones/DBD%20-%20Lógico%20y%20Físico%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Lógico%20y%20Físico%20-%20parcial%2006/DBD-logico-fisico-parcial-06.png)
+  * [**Parcial 07**](Parciales/.mis%20resoluciones/DBD%20-%20Lógico%20y%20Físico%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Lógico%20y%20Físico%20-%20parcial%2007/DBD-logico-fisico-parcial-07.png)
+  * [**Parcial 08**](Parciales/.mis%20resoluciones/DBD%20-%20Lógico%20y%20Físico%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20Lógico%20y%20Físico%20-%20parcial%2008/DBD-logico-fisico-parcial-08.png)
+
+* [**_Enunciados de AR y SQL_**](Parciales/DBD%20-%20AR%20y%20SQL%20-%20enunciados%20de%20parciales%20(2018-2024).pdf)
+
+  * [**Parcial 01**](Parciales/.mis%20resoluciones/DBD%20-%20AR%20y%20SQL%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20AR%20y%20SQL%20-%20parcial%2001)
+  * [**Parcial 02**](Parciales/.mis%20resoluciones/DBD%20-%20AR%20y%20SQL%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20AR%20y%20SQL%20-%20parcial%2002)
+  * [**Parcial 03**](Parciales/.mis%20resoluciones/DBD%20-%20AR%20y%20SQL%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20AR%20y%20SQL%20-%20parcial%2003)
+  * [**Parcial 04**](Parciales/.mis%20resoluciones/DBD%20-%20AR%20y%20SQL%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20AR%20y%20SQL%20-%20parcial%2004)
+  * [**Parcial 05**](Parciales/.mis%20resoluciones/DBD%20-%20AR%20y%20SQL%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20AR%20y%20SQL%20-%20parcial%2005)
+  * [**Parcial 06**](Parciales/.mis%20resoluciones/DBD%20-%20AR%20y%20SQL%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20AR%20y%20SQL%20-%20parcial%2006)
+  * [**Parcial 07**](Parciales/.mis%20resoluciones/DBD%20-%20AR%20y%20SQL%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20AR%20y%20SQL%20-%20parcial%2007)
+  * [**Parcial 08**](Parciales/.mis%20resoluciones/DBD%20-%20AR%20y%20SQL%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20AR%20y%20SQL%20-%20parcial%2008)
+  * [**Parcial 09**](Parciales/.mis%20resoluciones/DBD%20-%20AR%20y%20SQL%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20AR%20y%20SQL%20-%20parcial%2009)
+  * [**Parcial 10**](Parciales/.mis%20resoluciones/DBD%20-%20AR%20y%20SQL%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20AR%20y%20SQL%20-%20parcial%2010)
+  * [**Parcial 11**](Parciales/.mis%20resoluciones/DBD%20-%20AR%20y%20SQL%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20AR%20y%20SQL%20-%20parcial%2011)
+  * [**Parcial 12**](Parciales/.mis%20resoluciones/DBD%20-%20AR%20y%20SQL%20-%20enunciados%20de%20parciales%20(2018-2024)/DBD%20-%20AR%20y%20SQL%20-%20parcial%2012)
+
+___
+
+### FINALES
+- Revisé y comparé todos los Repositorios y Drives que encontré, asi que probablemente en este repositorio se encuentrén todos los finales de 2024 para atrás
+- Cuando me puse a bucar finales encontré un monton de fotos sueltas y uno que otro pdf, un re quilombo. Me tomé el laburo de separar todo, pasar las imagenes a pdf y organizar todo por fecha.
+- Algunas fotos tienen una calidad horrible, hice lo que pude para que algunas se vieran ligeramente mejor.
 
 ___
