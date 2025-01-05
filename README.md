@@ -48,16 +48,16 @@ ___
 - Todos los ejercicios fueron comparados con otro repositorio y con resoluciones que pasaron al grupo de WhatsApp.  
 
 * [**_Enunciados de la práctica 1_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%201%20-%20Introducción%20al%20Modelado%20Conceptual.pdf)
-
-* [**ejercicio 01**](Practicas/Practica%201/ejercicio%2001/ejercicio_01.png)
-* [**ejercicio 02**](Practicas/Practica%201/ejercicio%2002/ejercicio_02.png)
-* [**ejercicio 03**](Practicas/Practica%201/ejercicio%2003/ejercicio_03.png)
-* [**ejercicio 04**](Practicas/Practica%201/ejercicio%2004/ejercicio_04.png)
-* [**ejercicio 05**](Practicas/Practica%201/ejercicio%2005/ejercicio_05.png)
-* [**ejercicio 06**](Practicas/Practica%201/ejercicio%2006/ejercicio_06.png)
-* [**ejercicio 07**](Practicas/Practica%201/ejercicio%2007/ejercicio_07.png)
-* [**ejercicio 08**](Practicas/Practica%201/ejercicio%2008/ejercicio_08.png)
-* [**ejercicio 09**](Practicas/Practica%201/ejercicio%2009/ejercicio_09.png)
+  
+  * [**ejercicio 01**](Practicas/Practica%201/ejercicio%2001/ejercicio_01.png)
+  * [**ejercicio 02**](Practicas/Practica%201/ejercicio%2002/ejercicio_02.png)
+  * [**ejercicio 03**](Practicas/Practica%201/ejercicio%2003/ejercicio_03.png)
+  * [**ejercicio 04**](Practicas/Practica%201/ejercicio%2004/ejercicio_04.png)
+  * [**ejercicio 05**](Practicas/Practica%201/ejercicio%2005/ejercicio_05.png)
+  * [**ejercicio 06**](Practicas/Practica%201/ejercicio%2006/ejercicio_06.png)
+  * [**ejercicio 07**](Practicas/Practica%201/ejercicio%2007/ejercicio_07.png)
+  * [**ejercicio 08**](Practicas/Practica%201/ejercicio%2008/ejercicio_08.png)
+  * [**ejercicio 09**](Practicas/Practica%201/ejercicio%2009/ejercicio_09.png)
 
 ___
 
@@ -99,16 +99,16 @@ ___
 - Todos y cada uno de los 80 puntos fueron comparados con otro repositorio y las resoluciones son prácticamente idénticas.  
 
 * [**_Enunciados de la práctica 3_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%203%20-%20Algebra%20relacional.pdf)
-
-* [**ejercicio 01**](Practicas/Practica%203/ejercicio%2001/ejercicio_01.png)
-* [**ejercicio 02**](Practicas/Practica%203/ejercicio%2002/ejercicio_02.png)
-* [**ejercicio 03**](Practicas/Practica%203/ejercicio%2003/ejercicio_03.png)
-* [**ejercicio 04**](Practicas/Practica%203/ejercicio%2004/ejercicio_04.png)
-* [**ejercicio 05**](Practicas/Practica%203/ejercicio%2005/ejercicio_05.png)
-* [**ejercicio 06**](Practicas/Practica%203/ejercicio%2006/ejercicio_06.png)
-* [**ejercicio 07**](Practicas/Practica%203/ejercicio%2007/ejercicio_07.png)
-* [**ejercicio 08**](Practicas/Practica%203/ejercicio%2008/ejercicio_08.png)
-* [**ejercicio 09**](Practicas/Practica%203/ejercicio%2009/ejercicio_09.png)
+  
+  * [**ejercicio 01**](Practicas/Practica%203/ejercicio%2001/ejercicio_01.png)
+  * [**ejercicio 02**](Practicas/Practica%203/ejercicio%2002/ejercicio_02.png)
+  * [**ejercicio 03**](Practicas/Practica%203/ejercicio%2003/ejercicio_03.png)
+  * [**ejercicio 04**](Practicas/Practica%203/ejercicio%2004/ejercicio_04.png)
+  * [**ejercicio 05**](Practicas/Practica%203/ejercicio%2005/ejercicio_05.png)
+  * [**ejercicio 06**](Practicas/Practica%203/ejercicio%2006/ejercicio_06.png)
+  * [**ejercicio 07**](Practicas/Practica%203/ejercicio%2007/ejercicio_07.png)
+  * [**ejercicio 08**](Practicas/Practica%203/ejercicio%2008/ejercicio_08.png)
+  * [**ejercicio 09**](Practicas/Practica%203/ejercicio%2009/ejercicio_09.png)
 
 ___
 
@@ -122,19 +122,19 @@ ___
 
 * [**_Enunciados de la práctica 4_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%204%20-%20SQL.pdf)
 
-* [**ejercicio 01**](Practicas/Practica%204/ejercicio_01.sql)
-* [**ejercicio 02**](Practicas/Practica%204/ejercicio_02.sql)
-* [**ejercicio 03**](Practicas/Practica%204/ejercicio_03.sql)
-* [**ejercicio 04**](Practicas/Practica%204/ejercicio_04.sql)
-* [**ejercicio 05**](Practicas/Practica%204/ejercicio_05.sql)
-* [**ejercicio 06**](Practicas/Practica%204/ejercicio_06.sql)
-* [**ejercicio 07**](Practicas/Practica%204/ejercicio_07.sql)
-* [**ejercicio 08**](Practicas/Practica%204/ejercicio_08.sql)
-* [**ejercicio 09**](Practicas/Practica%204/ejercicio_09.sql)
-* [**ejercicio 10**](Practicas/Practica%204/ejercicio_10.sql)
-* [**ejercicio 11**](Practicas/Practica%204/ejercicio_11.sql)
-* [**ejercicio 12**](Practicas/Practica%204/ejercicio_12.sql)
-* [**ejercicio 13**](Practicas/Practica%204/ejercicio_13.sql)
+  * [**ejercicio 01**](Practicas/Practica%204/ejercicio_01.sql)
+  * [**ejercicio 02**](Practicas/Practica%204/ejercicio_02.sql)
+  * [**ejercicio 03**](Practicas/Practica%204/ejercicio_03.sql)
+  * [**ejercicio 04**](Practicas/Practica%204/ejercicio_04.sql)
+  * [**ejercicio 05**](Practicas/Practica%204/ejercicio_05.sql)
+  * [**ejercicio 06**](Practicas/Practica%204/ejercicio_06.sql)
+  * [**ejercicio 07**](Practicas/Practica%204/ejercicio_07.sql)
+  * [**ejercicio 08**](Practicas/Practica%204/ejercicio_08.sql)
+  * [**ejercicio 09**](Practicas/Practica%204/ejercicio_09.sql)
+  * [**ejercicio 10**](Practicas/Practica%204/ejercicio_10.sql)
+  * [**ejercicio 11**](Practicas/Practica%204/ejercicio_11.sql)
+  * [**ejercicio 12**](Practicas/Practica%204/ejercicio_12.sql)
+  * [**ejercicio 13**](Practicas/Practica%204/ejercicio_13.sql)
 
 ___
 
