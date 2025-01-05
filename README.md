@@ -9,7 +9,7 @@ ___
 - **_Utilicen los ejercicios únicamente para comparar resultados_**. Si bien las resoluciones pueden ser correctas, **_nunca se fíen_**. El criterio que usa la cátedra es algo ambiguo a veces: **_algún ayudante te puede decir que algo está bien y otro te puede decir lo contrario_**. Por lo tanto, la mejor manera de saber si las cosas están bien es consultar, comparar con otros compañeros y practicar mucho.  
 - También tengan en cuenta que **_algunas cosas puntuales tienen varias formas de resolverse_**, ya que son decisiones de diseño y estas dependen de lo que el desarrollador crea más conveniente. Por eso, es muy importante aprender a identificar qué partes del modelo deben modelarse de una forma concreta (como los historiales) y qué partes pueden variar dependiendo del criterio de cada uno (como elegir un atributo vs. una entidad).  
 - Mucho del material de este repositorio es **_recopilado de todos los repositorios y de todos los drives que encontré_**, por lo que, si encuentran algún material por ahí (previo a 2024), este **_seguramente ya se encuentre aquí_**.
-- Estuve horas buscando y organizando todo el material asi que espero les sea de utilidad.
+- Estuve horas buscando y organizando todo el material, así que espero que les sea de utilidad.
 
 ___
 
@@ -139,9 +139,10 @@ ___
 ___
 
 ### PARCIALES
-- Revisé y comparé todos los Repositorios y Drives que encontré, asi que probablemente en este repositorio se encuentrén todos los enunciados de 2024 para atrás
-- Todos los parciales que encontré los recopilé en 4 pdfs separados por año ( 2018, 2020, 2022 y 2024 )
-- Luego, pase los enunciados a texto y los puse en 3 pdfs separados por temas ( Conceptual, Lógico+Físico, AR+SQL )
+
+- Revisé y comparé todos los repositorios y drives que encontré, así que probablemente en este repositorio se encuentren todos los enunciados de 2024 para atrás (me refiero a los que vayan a encontrar por ahí, no todos literalmente).
+- Todos los parciales que encontré los recopilé en 4 PDFs separados por año (2018, 2020, 2022 y 2024).
+- Luego, pasé los enunciados a texto y los puse en 3 PDFs separados por temas (Conceptual, Lógico + Físico, AR + SQL).
 
 * [**_Enunciados de Modelado Conceptual_**](Parciales/DBD%20-%20Conceptual%20-%20enunciados%20de%20parciales%20(2018-2024).pdf)
  
@@ -186,8 +187,9 @@ ___
 ___
 
 ### FINALES
-- Revisé y comparé todos los Repositorios y Drives que encontré, asi que probablemente en este repositorio se encuentrén todos los finales de 2024 para atrás
-- Cuando me puse a bucar finales encontré un monton de fotos sueltas y uno que otro pdf, un re quilombo. Me tomé el laburo de separar todo, pasar las imagenes a pdf y organizar todo por fecha.
-- Algunas fotos tienen una calidad horrible, hice lo que pude para que algunas se vieran ligeramente mejor.
+
+- Revisé y comparé todos los repositorios y drives que encontré, así que probablemente en este repositorio se encuentren todos los finales de 2024 para atrás (me refiero a los que vayan a encontrar por ahí, no todos literalmente).
+- Cuando me puse a buscar finales, encontré un montón de fotos sueltas y uno que otro PDF, un verdadero quilombo. Me tomé el trabajo de separar todo, pasar las imágenes a PDF y organizar todo por fecha.
+- Algunas fotos tienen una calidad horrible, pero hice lo que pude para que algunas se vieran ligeramente mejor.
 
 ___
