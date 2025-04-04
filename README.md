@@ -116,8 +116,7 @@ ___
 - Como ningún profesor se va a sentar a corroborar los 113 puntos de la práctica, claramente no están corregidos, pero estoy un **99% seguro de que están bien**.  
 - Todos y cada uno de los 113 puntos fueron resueltos de forma súper rigurosa.  
 - Todos y cada uno de los 113 puntos fueron comparados con otros 2 repositorios y las resoluciónes coinsiden en un 95%.
-- Todos y cada uno de los 113 puntos únicamente usan instrucciones SQL que nos explicaron en la Teoría y la Práctica; no hay nada de más.  
-- Todos y cada uno de los 113 puntos fueron verificados con ChatGPT (me hizo correcciones menores y me sugirió soluciones similares).  
+- Todos y cada uno de los 113 puntos únicamente usan instrucciones SQL que nos explicaron en la Teoría y la Práctica; no hay nada de más. 
 
 
 * [**_Enunciados de la práctica 4_**](Practicas/.enunciados/DBD-2024%20-%20Práctica%204%20-%20SQL.pdf)
